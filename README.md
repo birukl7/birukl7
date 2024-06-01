@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **contact@biruklemma.com**
 
