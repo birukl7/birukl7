@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birukl7&label=Profile%20views&color=0e75b6&style=flat" alt="birukl7" /> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **Laravel**
 
