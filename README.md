@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birukl7&label=Profile%20views&color=0e75b6&style=flat" alt="birukl7" /> </p>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently working on **Laravel, PHP and React Js web applicaions.**
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **contact@biruklemma.com**
+- 📫 How to reach me **contact@biruklemma.com || biruklemmadebela@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
