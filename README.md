@@ -19,9 +19,3 @@
 
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=birukl7&show_icons=true&locale=en&layout=compact" alt="birukl7" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=birukl7&" alt="birukl7" /></p>
