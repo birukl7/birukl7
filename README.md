@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **contact@biruklemma.com || biruklemmadebela@gmail.com**
+- 📫 How to reach me **biruklemmadebela@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
